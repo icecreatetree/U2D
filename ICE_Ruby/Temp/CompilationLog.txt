@@ -1,0 +1,2 @@
+# Starting compiling Assembly-CSharp.dll
+C:\P4\lizeyin_Unity.XDT.R_001\WindowsEditor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-8fb44acb2da4f804f91c264c15445331
